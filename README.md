@@ -100,7 +100,7 @@ Project: **Local Inventory Management System** (C# · ASP.NET Core · SQL Server
 | 🤖 **AI Marketing Agent** | An AI-powered agent that helps automate marketing tasks — generating campaign/content ideas using LLM-driven workflows | Python/Node.js, AI Agents | [ai-marketing-agent-qel2.onrender.com](https://ai-marketing-agent-qel2.onrender.com) |
 | 🖼️ **Media Sharing App** | Upload & view photos/videos with a clean, responsive UI; MongoDB for media storage, SQL Server for auth | C#, ASP.NET Core MVC, MongoDB, SQL Server, Entity Framework |
 | 📚 **Book Store** | Online bookstore with auth, listings, search, and a shopping cart | PHP, MySQL, HTML, CSS, JavaScript | [bookstore-php](https://github.com/Ansu1431/bookstore-php) |
-| 🧑‍🎓 **Face Recognition Attendance System** | Automated attendance marking using computer vision, eliminating manual processes | Python, OpenCV, SQL | [Attendance_system](https://github.com/Ansu1431/Attendance_system) |
+| 🧑‍🎓 **Face Recognition Attendance System** | Automated attendance marking using computer vision, eliminating manual processes | Python, OpenCV, SQL | [AI_smart_attendance_using_n8n](https://github.com/Ansu1431/AI_smart_attendance_using_n8n) |
 | 🏫 **IIT Patna FIST TBI Clone** | Clone of the FIST TBI, IIT Patna website | PHP | [fist_tbi_iit_patna](https://github.com/Ansu1431/fist_tbi_iit_patna) |
 
 > ⚠️ *Note: Free-tier Render deployments (Skribbl Clone, AI Marketing Agent) may take ~30-50 seconds to spin up on first visit.*
