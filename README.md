@@ -16,6 +16,9 @@
   <a href="https://github.com/Ansu1431">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://personal-portfolio-8uay.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -88,14 +91,19 @@ Project: **Local Inventory Management System** (C# · ASP.NET Core · SQL Server
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🖼️ [Media Sharing App](https://github.com/Ansu1431) | Upload & view photos/videos with a clean, responsive UI; MongoDB for media storage, SQL Server for auth | C#, ASP.NET Core MVC, MongoDB, SQL Server, Entity Framework |
-| 📚 [Book Store](https://github.com/Ansu1431/bookstore-php) | Online bookstore with auth, listings, search, and a shopping cart | PHP, MySQL, HTML, CSS, JavaScript |
-| 🧑‍🎓 [Face Recognition Attendance System](https://github.com/Ansu1431/Attendance_system) | Automated attendance marking using computer vision, eliminating manual processes | Python, OpenCV, SQL |
-| 🌐 [Personal Portfolio](https://github.com/Ansu1431/personal_portfolio) | My personal developer portfolio website | JavaScript |
-| 🎨 [Skribbl Clone](https://github.com/Ansu1431/Skibbl-Clone) | Real-time drawing & guessing game clone | TypeScript |
-| 🏫 [IIT Patna FIST TBI Clone](https://github.com/Ansu1431/fist_tbi_iit_patna) | Clone of the FIST TBI, IIT Patna website | PHP |
+| Project | About | Tech | Live Demo |
+|---|---|---|---|
+| 🏥 **Health Square Diagnostics** | A diagnostic-centre booking website for a Hauz Khas (New Delhi) imaging & pathology lab — lets patients search 250+ tests, see live pricing, apply discount coupons, and book scans (MRI, CT, Ultrasound, X-Ray) online | HTML, CSS, JavaScript | [diagnostic-tets.vercel.app](https://diagnostic-tets.vercel.app/) |
+| 🏦 **VRB Capital** | A corporate website built for a U.S. real-estate debt investment firm — showcases their mortgage-note investment strategy, track record, and lets accredited investors request a confidential consultation | HTML, CSS, JavaScript | [www.vrbcap.com](https://www.vrbcap.com) |
+| 🌐 **Personal Portfolio** | My personal developer portfolio — about me, skills, resume download, project showcase, and a working contact form | JavaScript, HTML, CSS | [personal-portfolio-8uay.vercel.app](https://personal-portfolio-8uay.vercel.app/) |
+| 🎨 **Skribbl Clone** | A real-time multiplayer drawing & guessing game, inspired by Skribbl.io, with live rooms and word-guessing gameplay | TypeScript, Socket.io | [skibbl-clone.onrender.com](https://skibbl-clone.onrender.com) |
+| 🤖 **AI Marketing Agent** | An AI-powered agent that helps automate marketing tasks — generating campaign/content ideas using LLM-driven workflows | Python/Node.js, AI Agents | [ai-marketing-agent-qel2.onrender.com](https://ai-marketing-agent-qel2.onrender.com) |
+| 🖼️ **Media Sharing App** | Upload & view photos/videos with a clean, responsive UI; MongoDB for media storage, SQL Server for auth | C#, ASP.NET Core MVC, MongoDB, SQL Server, Entity Framework |
+| 📚 **Book Store** | Online bookstore with auth, listings, search, and a shopping cart | PHP, MySQL, HTML, CSS, JavaScript | [bookstore-php](https://github.com/Ansu1431/bookstore-php) |
+| 🧑‍🎓 **Face Recognition Attendance System** | Automated attendance marking using computer vision, eliminating manual processes | Python, OpenCV, SQL | [Attendance_system](https://github.com/Ansu1431/Attendance_system) |
+| 🏫 **IIT Patna FIST TBI Clone** | Clone of the FIST TBI, IIT Patna website | PHP | [fist_tbi_iit_patna](https://github.com/Ansu1431/fist_tbi_iit_patna) |
+
+> ⚠️ *Note: Free-tier Render deployments (Skribbl Clone, AI Marketing Agent) may take ~30-50 seconds to spin up on first visit.*
 
 ---
 
@@ -129,6 +137,9 @@ Data Structures & Algorithms · Web Development · Object-Oriented Programming �
   </a>
   <a href="mailto:shekhar.ansu14@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://personal-portfolio-8uay.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
 
