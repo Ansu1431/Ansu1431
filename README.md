@@ -112,6 +112,12 @@ Data Structures & Algorithms · Web Development · Object-Oriented Programming �
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ansu1431/Ansu1431/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -146,4 +152,3 @@ Data Structures & Algorithms · Web Development · Object-Oriented Programming �
 <p align="center">
   ⭐️ From <a href="https://github.com/Ansu1431">Ansu1431</a>
 </p>
-![snake gif](https://raw.githubusercontent.com/Ansu1431/Ansu1431/output/github-contribution-grid-snake-dark.svg)
