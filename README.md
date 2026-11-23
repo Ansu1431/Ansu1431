@@ -102,6 +102,7 @@ Project: **Local Inventory Management System** (C# · ASP.NET Core · SQL Server
 | 📚 **Book Store** | Online bookstore with auth, listings, search, and a shopping cart | PHP, MySQL, HTML, CSS, JavaScript | [bookstore-php](https://github.com/Ansu1431/bookstore-php) |
 | 🧑‍🎓 **Face Recognition Attendance System** | Automated attendance marking using computer vision, eliminating manual processes | Python, OpenCV, SQL | [AI_smart_attendance_using_n8n](https://github.com/Ansu1431/AI_smart_attendance_using_n8n) |
 | 🏫 **IIT Patna FIST TBI Clone** | Clone of the FIST TBI, IIT Patna website | PHP | [fist_tbi_iit_patna](https://github.com/Ansu1431/fist_tbi_iit_patna) |
+| 🎫 **Support Ticket System** | A full-stack customer support platform where customers can create support tickets, track ticket status, communicate with support agents, and manage conversations. Includes role-based authentication and ticket management. | React, Vite, Tailwind CSS, Node.js, Express.js, PostgreSQL, JWT | [Live Demo](https://supportdesk-client-1fhf.onrender.com/) |
 
 > ⚠️ *Note: Free-tier Render deployments (Skribbl Clone, AI Marketing Agent) may take ~30-50 seconds to spin up on first visit.*
 
